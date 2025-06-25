@@ -18,14 +18,17 @@ COMPONENTS = [
 SHARED_LIBRARIES = [
     {
         "name": "libA.so",
-        "path": "./test/test01/libA/"
+        "path": "./test/test01/libA/",
+        "object": "./test/test01/libA/libA.o"
     },
     {
         "name": "libB.so",
-        "path": "./test/test01/libB/"
+        "path": "./test/test01/libB/",
+        "object": "./test/test01/libB/libB.o"
     },
     {
         "name": "libC.so",
-        "path": "./test/test01/libC/"
+        "path": "./test/test01/libC/",
+        "object": "./test/test01/libC/libC.o"
     }
 ]

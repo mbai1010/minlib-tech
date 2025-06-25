@@ -30,16 +30,16 @@ This test checks whether:
 ## 🧰 How to Use
 
 1. Compile each `.c` file into object files and shared libraries using:
-    gcc -fPIE -fno-plt -c test1.c -o test1.o
-    gcc -fPIE -fno-plt -c test2.c -o test2.o
+    gcc -fPIE -fno-plt -ffunction-sections -fdata-sections -c test1.c -o test1.o
+    gcc -fPIE -fno-plt -ffunction-sections -fdata-sections -c test2.c -o test2.o
     
-    gcc -fPIC -fno-plt -c libA/libA.c -o libA/libA.o
+    gcc -fPIC -fno-plt -ffunction-sections -fdata-sections -c libA/libA.c -o libA/libA.o
     gcc -shared -o libA/libA.so libA/libA.o
 
-    gcc -fPIC -fno-plt -c libC/libC.c -o libC/libC.o
+    gcc -fPIC -fno-plt -ffunction-sections -fdata-sections -c libC/libC.c -o libC/libC.o
     gcc -shared -o libC/libC.so libC/libC.o
     
-    gcc -fPIC -fno-plt -c libB/libB.c -o libB/libB.o
+    gcc -fPIC -fno-plt -ffunction-sections -fdata-sections -c libB/libB.c -o libB/libB.o
     gcc -shared -o libB/libB.so libB/libB.o -L./libC -lC
     ```
 

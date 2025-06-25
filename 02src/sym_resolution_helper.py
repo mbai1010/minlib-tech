@@ -25,6 +25,7 @@ def _get_defined_symbol_map():
         for sym in symbols["defined"]:
             if sym in sym_to_lib_map:
                 print(f"[Warning] Symbol {sym} defined in multiple libraries: {sym_to_lib_map[sym]} and {lib['name']}")
+                continue #follow the ld rule, first matched symbol win 
             sym_to_lib_map[sym] = lib["name"]
     return sym_to_lib_map
 
