@@ -1,11 +1,9 @@
 # shrink_helper.py
 
 from sym_resolution_helper import (
-    extract_component_undefined_symbols,
-    get_defined_symbol_map,
     resolve_undefined_symbols
 )
-from rebuild_helper import rebuild_shared_library, generate_version_script
+from rebuild_helper import rebuild_shared_library
 import config
 import os
 from elf_utils_helper import get_symbols
@@ -29,8 +27,7 @@ def run_shrink_process(input_files, undefs=None):
     undefs |= new_undefs
 
     # Step 4: Map undefined symbols to providers
-    sym_to_lib = get_defined_symbol_map()
-    symbol_provider_map = resolve_undefined_symbols(new_undefs, sym_to_lib)
+    symbol_provider_map = resolve_undefined_symbols(new_undefs)
 
     # Step 5: Group symbols by provider
     provider_symbols = {}
@@ -44,13 +41,10 @@ def run_shrink_process(input_files, undefs=None):
         original_so = os.path.join(lib_entry["path"], provider)
         shrunk_so = os.path.join(lib_entry["path"], "shrunk_" + provider)
 
-        version_script_path = os.path.join(lib_entry["path"], "version_script.ver")
-        generate_version_script(symbols, version_script_path)
-
         rebuilt_so = rebuild_shared_library(
             original_so_path=original_so,
             output_so_path=shrunk_so,
-            version_script_path=version_script_path
+            symbols=symbols
         )
         next_inputs.append(rebuilt_so)
 

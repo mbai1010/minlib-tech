@@ -5,7 +5,7 @@ from elf_utils_helper import get_symbols
 import config
 
 
-def extract_component_undefined_symbols():
+def _extract_component_undefined_symbols():
     all_undefs = set()
     for comp in config.COMPONENTS:
         file_path = os.path.join(comp["path"], comp["name"])
@@ -14,7 +14,7 @@ def extract_component_undefined_symbols():
     return all_undefs
 
 
-def get_defined_symbol_map():
+def _get_defined_symbol_map():
     """
     List the defined symbols of each shared library 
     """
@@ -29,8 +29,9 @@ def get_defined_symbol_map():
     return sym_to_lib_map
 
 
-def resolve_undefined_symbols(undefined_set, sym_to_lib_map):
+def resolve_undefined_symbols(undefined_set):
     resolved = {}
+    sym_to_lib_map = _get_defined_symbol_map()
     for sym in undefined_set:
         if sym in sym_to_lib_map:
             resolved[sym] = sym_to_lib_map[sym]

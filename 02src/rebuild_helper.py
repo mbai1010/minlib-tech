@@ -3,7 +3,7 @@
 import os
 import subprocess
 
-def generate_version_script(symbols, output_path):
+def _generate_version_script(symbols, output_path):
     with open(output_path, "w") as f:
         f.write("{\n  global:\n")
         for sym in symbols:
@@ -11,11 +11,14 @@ def generate_version_script(symbols, output_path):
         f.write("  local: *;\n};\n")
 
 
-def rebuild_shared_library(original_so_path, output_so_path, version_script_path):
+def rebuild_shared_library(original_so_path, output_so_path, symbols):
     cflags = ["-fPIC", "-fno-plt", "-ffunction-sections", "-fdata-sections"]
     lib_dir = os.path.dirname(original_so_path)
 
-    # Recursively collect all .c files
+    version_script_path = os.path.join(lib_dir, "version_script.vers")
+    _generate_version_script(symbols, version_script_path)    
+    
+    # collect all .c files
     source_files = []
     for root, _, files in os.walk(lib_dir):
         for file in files:
