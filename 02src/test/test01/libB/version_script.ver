@@ -1,0 +1,6 @@
+{
+  global:
+    shared_val_B;
+    funcB;
+  local: *;
+};

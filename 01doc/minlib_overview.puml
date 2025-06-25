@@ -1,0 +1,25 @@
+@startuml
+title Minlib Shrink Tech
+
+start
+:InputSet = relocatable object files;
+:UndefSet = 0;
+
+repeat
+  :Step 1 – Extract undefined symbols\nfrom InputSet -> NewUndefSet;
+  
+  if (NewUndefSet ⊆ UndefSet?) then (yes)
+    break
+  else (no)
+    :Step 2 – UndefSet = NewUndefSet ∪ UndefSet;
+
+  :Step 3 – Map each symbol in NewUndefSet\n→ its ORIGINAL provider (.so);
+  
+  :Step 4 – For each provider .so\n  • create version script based on the mapping list \n  • rebuild with -ffunction-sections / -fdata-sections\n    and  --gc-sections + version-script\n  ⇒ shrunk providers;
+  endif
+
+repeat while (InputSet = {shrunk providers})
+
+:Step 7 – All required symbols retained\n(no new undefineds);
+@enduml
+

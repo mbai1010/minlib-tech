@@ -1,0 +1,5 @@
+{
+  global:
+    shared_val_C;
+  local: *;
+};
