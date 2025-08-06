@@ -1,0 +1,9 @@
+XCRYPT_2.0 {
+  global:
+    crypt;
+};
+
+DEFAULT {
+  local: *;
+};
+

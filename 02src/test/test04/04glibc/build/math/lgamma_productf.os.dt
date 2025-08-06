@@ -1,0 +1,11 @@
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/math/lgamma_productf.os: \
+ ../sysdeps/ieee754/flt-32/lgamma_productf.c \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:

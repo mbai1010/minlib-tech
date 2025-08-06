@@ -1,0 +1,157 @@
+GLIBC_2.2.5 {
+  global:
+    __cxa_finalize;
+    __errno_location;
+    _exit;
+    accept;
+    access;
+    alarm;
+    bind;
+    chdir;
+    chmod;
+    chroot;
+    close;
+    closedir;
+    closelog;
+    connect;
+    dirfd;
+    dup2;
+    endusershell;
+    endutxent;
+    fchmod;
+    fchown;
+    fork;
+    free;
+    ftruncate64;
+    getcwd;
+    getegid;
+    getenv;
+    geteuid;
+    getgrgid;
+    gethostbyname;
+    getpagesize;
+    getpeername;
+    getpgrp;
+    getpwnam;
+    getpwuid;
+    getsockname;
+    getsockopt;
+    getspnam;
+    gettimeofday;
+    getuid;
+    getusershell;
+    gmtime;
+    inet_aton;
+    inet_ntoa;
+    inet_ntop;
+    initgroups;
+    listen;
+    localtime;
+    lseek64;
+    malloc;
+    memcmp;
+    memset;
+    mkdir;
+    mktime;
+    mmap;
+    mprotect;
+    munmap;
+    nanosleep;
+    open64;
+    opendir;
+    openlog;
+    prctl;
+    putenv;
+    pututxline;
+    qsort;
+    rand;
+    read;
+    readdir64;
+    readlink;
+    realloc;
+    recv;
+    recvmsg;
+    rename;
+    rmdir;
+    select;
+    sendfile;
+    sendmsg;
+    setgid;
+    setgroups;
+    setregid;
+    setreuid;
+    setrlimit64;
+    setsid;
+    setsockopt;
+    setuid;
+    setutxent;
+    shutdown;
+    sigaction;
+    sigaddset;
+    sigemptyset;
+    sigfillset;
+    sigprocmask;
+    socket;
+    socketpair;
+    srand;
+    strcmp;
+    strdup;
+    strftime;
+    strlen;
+    strncpy;
+    strtol;
+    syscall;
+    time;
+    tzset;
+    umask;
+    unlink;
+    updwtmpx;
+    utime;
+    wait;
+    waitpid;
+    write;
+};
+
+GLIBC_2.3 {
+  global:
+    __ctype_b_loc;
+    __ctype_toupper_loc;
+};
+
+GLIBC_2.7 {
+  global:
+    __open64_2;
+};
+
+GLIBC_2.3.4 {
+  global:
+    __snprintf_chk;
+};
+
+GLIBC_2.4 {
+  global:
+    __stack_chk_fail;
+    __syslog_chk;
+};
+
+GLIBC_2.33 {
+  global:
+    fstat64;
+    lstat64;
+    stat64;
+};
+
+GLIBC_2.15 {
+  global:
+    __fdelt_chk;
+};
+
+GLIBC_2.28 {
+  global:
+    fcntl64;
+};
+
+DEFAULT {
+  local: *;
+};
+

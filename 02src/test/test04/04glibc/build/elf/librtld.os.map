@@ -1,0 +1,1863 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (rtld_errno)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__closedir)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__rewinddir)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__readdir64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__fdopendir)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__profil)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__profile_frequency)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___stat64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__openat64)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__lseek)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__access)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__mmap)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__munmap)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__mprotect)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__uname)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__GI__exit)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__getpid)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__environ)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__longjmp)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__strdup)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strerrorname_np)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strcmp)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strncmp)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (memchr)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (rawmemchr)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (memcmp)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strchr)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strlen)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strnlen)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__stpcpy)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (strcspn)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (__mempcpy)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os (memset)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+                              /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+
+Merging program properties
+
+
+Discarded input sections
+
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+LOAD /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/11/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x20
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.relr.dyn
+ *(.relr.dyn)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x26423
+ *(.text .stub)
+ .text          0x0000000000000000    0x21544 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000240                _dl_close_worker
+                0x0000000000001010                _dl_close
+                0x0000000000001080                _dl_debug_state
+                0x0000000000001080                __GI__dl_debug_state
+                0x0000000000001090                _dl_debug_update
+                0x00000000000010e0                _dl_debug_initialize
+                0x00000000000012b0                _dl_map_object_deps
+                0x00000000000024b0                _dl_error_free
+                0x00000000000024e0                _dl_exception_create
+                0x00000000000024e0                __GI__dl_exception_create
+                0x00000000000025c0                __GI__dl_exception_create_format
+                0x00000000000025c0                _dl_exception_create_format
+                0x0000000000002a50                _dl_exception_free
+                0x0000000000002a50                __GI__dl_exception_free
+                0x0000000000002a80                _dl_make_stacks_executable
+                0x0000000000002bf0                __GI___nptl_change_stack_perm
+                0x0000000000002bf0                __nptl_change_stack_perm
+                0x0000000000002e40                __GI__dl_find_object
+                0x0000000000002e40                _dl_find_object
+                0x00000000000031c0                _dlfo_sort_mappings
+                0x0000000000003270                _dl_find_object_init
+                0x0000000000003420                _dl_find_object_update
+                0x0000000000003930                _dl_find_object_dlclose
+                0x0000000000003a00                _dl_find_object_freeres
+                0x0000000000003a70                _dl_fini
+                0x0000000000003f40                _dl_init
+                0x00000000000051e0                _dl_dst_count
+                0x0000000000005290                _dl_dst_substitute
+                0x0000000000005a00                _dl_init_paths
+                0x0000000000005d80                _dl_process_pt_gnu_property
+                0x0000000000007580                _dl_map_object
+                0x0000000000007f20                _dl_rtld_di_serinfo
+                0x0000000000008f90                _dl_lookup_symbol_x
+                0x000000000000a030                _dl_lookup_direct
+                0x000000000000a1e0                __minimal_malloc
+                0x000000000000a300                __minimal_calloc
+                0x000000000000a340                __minimal_free
+                0x000000000000a380                __minimal_realloc
+                0x000000000000a410                _dl_sysdep_read_whole_file
+                0x000000000000a4a0                _dl_name_match_p
+                0x000000000000a510                _dl_higher_prime_number
+                0x000000000000a560                _dl_strtoul
+                0x000000000000a6d0                _dl_add_to_namespace_list
+                0x000000000000a770                _dl_new_object
+                0x000000000000afa0                __GI__dl_find_dso_for_object
+                0x000000000000afa0                _dl_find_dso_for_object
+                0x000000000000b070                _dl_open
+                0x000000000000b360                _dl_show_scope
+                0x000000000000bed0                _dl_get_origin
+                0x000000000000c770                _dl_debug_printf
+                0x000000000000c820                _dl_debug_printf_c
+                0x000000000000c8d0                _dl_dprintf
+                0x000000000000c970                _dl_printf
+                0x000000000000ca20                _dl_error_printf
+                0x000000000000cad0                _dl_fatal_printf
+                0x000000000000cad0                __GI__dl_fatal_printf
+                0x000000000000cb80                _dl_start_profile
+                0x000000000000d360                __GI__dl_mcount
+                0x000000000000d360                _dl_mcount
+                0x000000000000d5b0                _dl_try_allocate_static_tls
+                0x000000000000d6d0                _dl_allocate_static_tls
+                0x000000000000d710                _dl_protect_relro
+                0x000000000000d780                _dl_reloc_bad_type
+                0x000000000000d850                _dl_relocate_object
+                0x000000000000f8e0                _dl_fixup
+                0x000000000000fb80                _dl_profile_fixup
+                0x000000000000feb0                _dl_scope_free
+                0x000000000000ffb0                _dl_setup_hash
+                0x0000000000010160                _dl_sort_maps_init
+                0x0000000000010190                _dl_sort_maps
+                0x0000000000010610                __thread_gscope_wait
+                0x0000000000010ac0                _dl_tls_static_surplus_init
+                0x0000000000010b50                _dl_assign_tls_modid
+                0x0000000000010c60                _dl_count_modids
+                0x0000000000010cd0                _dl_determine_tlsoffset
+                0x0000000000010e80                _dl_get_tls_static_info
+                0x0000000000010ea0                _dl_allocate_tls_storage
+                0x0000000000010f70                __GI__dl_allocate_tls_init
+                0x0000000000010f70                _dl_allocate_tls_init
+                0x0000000000011210                __GI__dl_allocate_tls
+                0x0000000000011210                _dl_allocate_tls
+                0x0000000000011250                _dl_deallocate_tls
+                0x0000000000011250                __GI__dl_deallocate_tls
+                0x00000000000112e0                _dl_update_slotinfo
+                0x0000000000011530                __GI___tls_get_addr
+                0x0000000000011530                ___tls_get_addr
+                0x0000000000011570                _dl_tls_get_addr_soft
+                0x00000000000115f0                _dl_add_to_slotinfo
+                0x0000000000011710                _dl_init_static_tls
+                0x0000000000011840                __tls_get_addr_slow
+                0x0000000000011880                __tls_pre_init_tp
+                0x00000000000118e0                __tls_init_tp
+                0x0000000000011a20                _dl_runtime_profile_avx512
+                0x0000000000011e30                _dl_runtime_profile_avx
+                0x0000000000012240                _dl_runtime_profile_sse
+                0x00000000000123d0                _dl_runtime_resolve_fxsave
+                0x0000000000012450                _dl_runtime_resolve_xsave
+                0x0000000000012520                _dl_runtime_resolve_xsavec
+                0x00000000000125e0                _dl_check_map_versions
+                0x0000000000012d70                _dl_check_all_versions
+                0x0000000000012df0                _dl_write
+                0x0000000000012e00                _dl_cache_libcmp
+                0x00000000000135c0                _dl_load_cache_lookup
+                0x0000000000013950                _dl_unload_cache
+                0x0000000000013a80                __GI___tunable_set_val
+                0x0000000000013ab0                __GI___tunables_init
+                0x0000000000014070                __GI___tunables_print
+                0x0000000000014180                __tunable_get_val
+                0x0000000000014180                __GI___tunable_get_val
+                0x00000000000141f0                _dl_make_tlsdesc_dynamic
+                0x00000000000144a0                _dl_unmap
+                0x0000000000014520                _dl_tlsdesc_return
+                0x0000000000014530                _dl_tlsdesc_undefweak
+                0x0000000000014550                _dl_tlsdesc_dynamic
+                0x00000000000145f0                __tls_get_addr
+                0x0000000000016790                __x86_cpu_features
+                0x00000000000167c0                _dl_x86_init_cpu_features
+                0x00000000000167e0                _dl_x86_get_cpu_features
+                0x0000000000016c80                _dl_cet_open_check
+                0x0000000000016c90                _dl_cet_check
+                0x0000000000016ca0                _dl_audit_activity_map
+                0x0000000000016d30                _dl_audit_activity_nsid
+                0x0000000000016d70                _dl_audit_objsearch
+                0x0000000000016e40                _dl_audit_objopen
+                0x0000000000016ef0                _dl_audit_objclose
+                0x0000000000016f90                _dl_audit_preinit
+                0x0000000000017020                _dl_audit_symbind_alt
+                0x0000000000017020                __GI__dl_audit_symbind_alt
+                0x0000000000017200                _dl_audit_symbind
+                0x00000000000174d0                _dl_audit_pltenter
+                0x0000000000017720                _dl_audit_pltexit
+                0x00000000000178b0                _dl_resolve_conflicts
+                0x0000000000017ad0                _dl_diagnostics_print_string
+                0x0000000000017b50                _dl_diagnostics_print_labeled_string
+                0x0000000000017ba0                _dl_diagnostics_print_labeled_value
+                0x0000000000017bc0                _dl_print_diagnostics
+                0x0000000000017fe0                _dl_diagnostics_cpu
+                0x00000000000186e0                _dl_diagnostics_kernel
+                0x0000000000018780                _dl_next_ld_env_entry
+                0x00000000000187d0                unsetenv
+                0x0000000000018900                _dl_signal_exception
+                0x0000000000018950                _dl_signal_error
+                0x00000000000189b0                _dl_signal_cexception
+                0x0000000000018a40                _dl_signal_cerror
+                0x0000000000018ad0                _dl_catch_exception
+                0x0000000000018bc0                _dl_catch_error
+                0x0000000000018c10                _dl_receive_error
+                0x0000000000018c60                _rtld_catch_error
+                0x0000000000018d10                _dl_important_hwcaps
+                0x0000000000019680                _dl_hwcaps_subdirs_active
+                0x0000000000019750                _dl_hwcaps_split
+                0x00000000000197f0                _dl_hwcaps_contains
+                0x0000000000019860                _dl_hwcaps_split_masked
+                0x00000000000198b0                __rtld_libc_freeres
+                0x00000000000198c0                __rtld_malloc_init_stubs
+                0x0000000000019900                __sigjmp_save
+                0x0000000000019910                __strerror_r
+                0x0000000000019a00                __GI___libc_fatal
+                0x0000000000019a00                __libc_fatal
+                0x0000000000019a20                __GI___chk_fail
+                0x0000000000019a20                __chk_fail
+                0x0000000000019a40                __GI___assert_fail
+                0x0000000000019a40                __assert_fail
+                0x0000000000019a80                __rtld_malloc_is_complete
+                0x0000000000019b90                __rtld_malloc_init_real
+                0x0000000000019c90                __GI___assert_perror_fail
+                0x0000000000019c90                __assert_perror_fail
+                0x0000000000019cf0                _itoa
+                0x0000000000019d50                __strsep
+                0x0000000000019d50                strsep
+                0x0000000000019d50                __strsep_g
+                0x0000000000019de0                __rtld_mutex_init
+                0x0000000000019ee0                _dl_tunable_set_hwcaps
+                0x000000000001a940                _dl_tunable_set_x86_ibt
+                0x000000000001a9c0                _dl_tunable_set_x86_shstk
+                0x000000000001aa40                _dl_sysdep_start
+                0x000000000001ae80                _dl_sysdep_start_cleanup
+                0x000000000001ae90                _dl_show_auxv
+                0x000000000001b040                _dl_discover_osversion
+                0x000000000001b2d0                _dl_usage
+                0x000000000001b320                _dl_version
+                0x000000000001b340                _dl_help
+                0x000000000001b860                _start
+                0x000000000001b868                _dl_start_user
+                0x000000000001cc60                handle_preload_list
+                0x0000000000020cb0                __brk
+                0x0000000000020cb0                brk
+                0x0000000000020ce0                sbrk
+                0x0000000000020ce0                __sbrk
+                0x0000000000020d70                __getcwd
+                0x0000000000020d70                getcwd
+                0x0000000000021360                openat64
+                0x00000000000213c0                __alloc_dir
+                0x00000000000214a0                __opendir
+                0x00000000000214a0                opendir
+ *fill*         0x0000000000021544        0xc 
+ .text          0x0000000000021550       0xd6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x00000000000215f0                __libc_check_standard_fds
+ .text          0x0000000000021626        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x0000000000021626        0xa 
+ .text          0x0000000000021630       0x2a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000021630                __closedir
+                0x0000000000021630                closedir
+ *fill*         0x000000000002165a        0x6 
+ .text          0x0000000000021660       0x34 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000021660                rewinddir
+                0x0000000000021660                __rewinddir
+ *fill*         0x0000000000021694        0xc 
+ .text          0x00000000000216a0       0x90 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x00000000000216a0                readdir
+                0x00000000000216a0                __readdir64
+                0x00000000000216a0                __readdir
+                0x00000000000216a0                readdir64
+ .text          0x0000000000021730       0x8e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x0000000000021730                fdopendir
+                0x0000000000021730                __fdopendir
+ *fill*         0x00000000000217be        0x2 
+ .text          0x00000000000217c0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x00000000000217c0                __getdents
+                0x00000000000217c0                getdents64
+                0x00000000000217c0                __getdents64
+ .text          0x00000000000217f0       0x7b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x00000000000217f0                _dl_addr_inside_object
+ *fill*         0x000000000002186b        0x5 
+ .text          0x0000000000021870       0xf7 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+                0x00000000000218c0                __profil
+                0x00000000000218c0                profil
+ *fill*         0x0000000000021967        0x9 
+ .text          0x0000000000021970        0xb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000021970                __profile_frequency
+ *fill*         0x000000000002197b        0x5 
+ .text          0x0000000000021980       0x16 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x0000000000021980                stat64
+                0x0000000000021980                __stat
+                0x0000000000021980                __stat64
+                0x0000000000021980                stat
+                0x0000000000021980                __GI___stat64
+ *fill*         0x0000000000021996        0xa 
+ .text          0x00000000000219a0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x00000000000219a0                __GI___fstat64
+                0x00000000000219a0                fstat64
+                0x00000000000219a0                fstat
+                0x00000000000219a0                __fstat64
+                0x00000000000219a0                __fstat
+ .text          0x00000000000219d0       0x19 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x00000000000219d0                __lstat64
+                0x00000000000219d0                lstat
+                0x00000000000219d0                lstat64
+                0x00000000000219d0                __GI___lstat64
+                0x00000000000219d0                __lstat
+ *fill*         0x00000000000219e9        0x7 
+ .text          0x00000000000219f0       0x2e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x00000000000219f0                fstatat
+                0x00000000000219f0                __fstatat
+                0x00000000000219f0                fstatat64
+                0x00000000000219f0                __fstatat64
+                0x00000000000219f0                __GI___fstatat
+                0x00000000000219f0                __GI___fstatat64
+ *fill*         0x0000000000021a1e        0x2 
+ .text          0x0000000000021a20       0x66 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x0000000000021a20                __openat64
+                0x0000000000021a20                __libc_openat64
+                0x0000000000021a20                __openat
+                0x0000000000021a20                openat
+ *fill*         0x0000000000021a86        0xa 
+ .text          0x0000000000021a90       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x0000000000021a90                __lseek64
+                0x0000000000021a90                lseek
+                0x0000000000021a90                __libc_lseek64
+                0x0000000000021a90                __lseek
+                0x0000000000021a90                __libc_lseek
+                0x0000000000021a90                lseek64
+ *fill*         0x0000000000021ab8        0x8 
+ .text          0x0000000000021ac0       0x26 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+                0x0000000000021ac0                access
+                0x0000000000021ac0                __access
+ *fill*         0x0000000000021ae6        0xa 
+ .text          0x0000000000021af0       0x26 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x0000000000021af0                __GI___close_nocancel
+ *fill*         0x0000000000021b16        0xa 
+ .text          0x0000000000021b20       0xde /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000021b20                __fcntl64_nocancel
+                0x0000000000021b20                __GI___fcntl64_nocancel
+                0x0000000000021ba0                __fcntl64_nocancel_adjusted
+ *fill*         0x0000000000021bfe        0x2 
+ .text          0x0000000000021c00       0x7e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x0000000000021c00                __GI___open_nocancel
+                0x0000000000021c00                __open_nocancel
+                0x0000000000021c00                __GI___open64_nocancel
+                0x0000000000021c00                __open64_nocancel
+ *fill*         0x0000000000021c7e        0x2 
+ .text          0x0000000000021c80       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x0000000000021c80                __read_nocancel
+                0x0000000000021c80                __GI___read_nocancel
+ *fill*         0x0000000000021ca8        0x8 
+ .text          0x0000000000021cb0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x0000000000021cb0                __GI___pread64_nocancel
+                0x0000000000021cb0                __pread64_nocancel
+ .text          0x0000000000021ce0       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x0000000000021ce0                __GI___write_nocancel
+                0x0000000000021ce0                __write_nocancel
+ *fill*         0x0000000000021d08        0x8 
+ .text          0x0000000000021d10       0xb0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x0000000000021d10                __libc_scratch_buffer_set_array_size
+ .text          0x0000000000021dc0       0x48 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000021dc0                __mmap
+                0x0000000000021dc0                mmap
+                0x0000000000021dc0                __mmap64
+                0x0000000000021dc0                mmap64
+ *fill*         0x0000000000021e08        0x8 
+ .text          0x0000000000021e10       0x24 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000021e10                munmap
+                0x0000000000021e10                __GI___munmap
+                0x0000000000021e10                __GI_munmap
+                0x0000000000021e10                __munmap
+ *fill*         0x0000000000021e34        0xc 
+ .text          0x0000000000021e40       0x24 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000021e40                __mprotect
+                0x0000000000021e40                __GI___mprotect
+                0x0000000000021e40                __GI_mprotect
+                0x0000000000021e40                mprotect
+ *fill*         0x0000000000021e64        0xc 
+ .text          0x0000000000021e70      0x108 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000021e70                __lll_lock_wait_private
+                0x0000000000021ed0                __lll_lock_wait
+                0x0000000000021f40                __lll_lock_wake_private
+                0x0000000000021f60                __lll_lock_wake
+ *fill*         0x0000000000021f78        0x8 
+ .text          0x0000000000021f80       0x24 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000021f80                uname
+                0x0000000000021f80                __GI_uname
+                0x0000000000021f80                __uname
+                0x0000000000021f80                __GI___uname
+ *fill*         0x0000000000021fa4        0xc 
+ .text          0x0000000000021fb0       0x42 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000021fb0                _Exit
+                0x0000000000021fb0                __GI__exit
+                0x0000000000021fb0                _exit
+ *fill*         0x0000000000021ff2        0xe 
+ .text          0x0000000000022000        0xc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000022000                __getpid
+                0x0000000000022000                getpid
+                0x0000000000022000                __GI_getpid
+                0x0000000000022000                __GI___getpid
+ .text          0x000000000002200c        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x000000000002200c        0x4 
+ .text          0x0000000000022010       0x5e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000022010                __sigsetjmp
+                0x0000000000022010                __GI___sigsetjmp
+ *fill*         0x000000000002206e        0x2 
+ .text          0x0000000000022070       0x7c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000022070                __longjmp
+ *fill*         0x00000000000220ec        0x4 
+ .text          0x00000000000220f0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x00000000000220f0                sigaction
+                0x00000000000220f0                __sigaction
+ .text          0x0000000000022120      0x1b1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000022140                __libc_sigaction
+ *fill*         0x00000000000222d1        0xf 
+ .text          0x00000000000222e0       0x4a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x00000000000222e0                __strdup
+                0x00000000000222e0                strdup
+ *fill*         0x000000000002232a        0x6 
+ .text          0x0000000000022330        0x9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x0000000000022330                strerrorname_np
+ *fill*         0x0000000000022339        0x7 
+ .text          0x0000000000022340     0x1449 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                0x0000000000022340                strcmp
+ *fill*         0x0000000000023789        0x7 
+ .text          0x0000000000023790     0x1859 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                0x0000000000023790                strncmp
+ *fill*         0x0000000000024fe9        0x7 
+ .text          0x0000000000024ff0      0x323 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                0x0000000000024ff0                memchr
+                0x0000000000024ff0                __memchr
+ *fill*         0x0000000000025313        0xd 
+ .text          0x0000000000025320      0x209 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                0x0000000000025320                __rawmemchr
+                0x0000000000025320                rawmemchr
+ *fill*         0x0000000000025529        0x7 
+ .text          0x0000000000025530      0x400 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                0x0000000000025530                bcmp
+                0x0000000000025530                memcmp
+ .text          0x0000000000025930      0x22a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                0x0000000000025930                index
+                0x0000000000025930                strchr
+ *fill*         0x0000000000025b5a        0x6 
+ .text          0x0000000000025b60      0x19c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                0x0000000000025b60                strlen
+ *fill*         0x0000000000025cfc        0x4 
+ .text          0x0000000000025d00      0x218 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                0x0000000000025d00                __strnlen
+                0x0000000000025d00                strnlen
+ *fill*         0x0000000000025f18        0x8 
+ .text          0x0000000000025f20       0xec /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                0x0000000000025f20                stpcpy
+                0x0000000000025f20                __stpcpy
+ *fill*         0x000000000002600c        0x4 
+ .text          0x0000000000026010       0xa7 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                0x0000000000026010                strcspn
+ *fill*         0x00000000000260b7        0x9 
+ .text          0x00000000000260c0      0x1f1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                0x00000000000260c0                mempcpy
+                0x00000000000260c0                __mempcpy
+                0x00000000000260d0                memmove
+                0x00000000000260d0                memcpy
+ *fill*         0x00000000000262b1        0xf 
+ .text          0x00000000000262c0       0xd9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                0x00000000000262c0                memset
+ *fill*         0x0000000000026399        0x7 
+ .text          0x00000000000263a0       0x26 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x00000000000263a0                setitimer
+                0x00000000000263a0                __setitimer
+ *fill*         0x00000000000263c6        0xa 
+ .text          0x00000000000263d0       0x53 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+                0x00000000000263d0                __get_errlist
+                0x00000000000263f0                __get_errname
+ *(.gnu.warning)
+
+.text.compat    0x0000000000000000        0x5
+ .text.compat   0x0000000000000000        0x5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x19ac
+ *(.rodata)
+ .rodata        0x0000000000000000     0x13b3 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ *fill*         0x00000000000013b3        0x5 
+ .rodata        0x00000000000013b8       0x40 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .rodata        0x00000000000013f8       0x40 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ *fill*         0x0000000000001438        0x8 
+ .rodata        0x0000000000001440      0x56c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.rodata.str1.1  0x0000000000000000     0x21cd
+ .rodata.str1.1
+                0x0000000000000000     0x1906 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001906       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x000000000000191a        0x1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .rodata.str1.1
+                0x000000000000191b      0x8b2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x585
+ .rodata.str1.16
+                0x0000000000000000      0x585 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x00000000000003f0                _dl_hwcaps_subdirs
+                0x0000000000000450                __GI__itoa_lower_digits
+                0x0000000000000450                _itoa_lower_digits
+
+.rodata.str1.8  0x0000000000000000     0x35a7
+ .rodata.str1.8
+                0x0000000000000000     0x31a9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ *fill*         0x00000000000031a9        0x7 
+ .rodata.str1.8
+                0x00000000000031b0       0x37 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ *fill*         0x00000000000031e7        0x1 
+ .rodata.str1.8
+                0x00000000000031e8      0x3bf /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.rodata.str1.32
+                0x0000000000000000       0xdb
+ .rodata.str1.32
+                0x0000000000000000       0xdb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x10
+ .rodata.cst16  0x0000000000000000       0x10 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x4048
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x34d0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                                       0x3550 (size before relaxing)
+ .eh_frame      0x00000000000034d0       0x68 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000003538       0x38 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000003570       0x38 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x00000000000035a8       0x50 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x00000000000035f8       0x50 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000003648       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000003678       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x00000000000036a8       0x48 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x00000000000036f0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000003720       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x0000000000003750       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x0000000000003780       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x00000000000037b0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x00000000000037e0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x0000000000003810       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000003840       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000003870       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x00000000000038a0       0x40 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x00000000000038e0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000003910       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000003940       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000003970       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x00000000000039a0       0x60 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003a00       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000003a30       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000003a60       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000003a90       0x70 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000003b00       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000003b30       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x0000000000003b60       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000003b90       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000003bc0       0x48 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000003c08       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x0000000000003c38       0xc8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000003d00       0x50 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000003d50       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .eh_frame      0x0000000000003d80       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .eh_frame      0x0000000000003db0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .eh_frame      0x0000000000003de0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .eh_frame      0x0000000000003e10       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .eh_frame      0x0000000000003e40       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .eh_frame      0x0000000000003e70       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .eh_frame      0x0000000000003ea0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .eh_frame      0x0000000000003ed0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .eh_frame      0x0000000000003f00       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .eh_frame      0x0000000000003f30       0x38 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .eh_frame      0x0000000000003f68       0x40 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003fa8       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003fd8       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000004008       0x40 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x10d0
+ *(.data)
+ .data          0x0000000000000000     0x10d0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x00000000000010d0        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.data.rel.ro    0x0000000000000000     0x1420
+ .data.rel.ro   0x0000000000000000     0x1420 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000040                __rtld_search_dirs
+                0x0000000000000070                __rtld_env_path_list
+                0x0000000000000080                __stack_prot
+                0x0000000000000088                __rseq_offset
+                0x0000000000000090                __rseq_size
+                0x0000000000000ff0                __x86_cpu_features_p
+                0x0000000000000ff8                __rtld_realloc
+                0x0000000000001000                __rtld_malloc
+                0x0000000000001008                __rtld_free
+                0x0000000000001010                __rtld_calloc
+                0x0000000000001018                ___rtld_mutex_unlock
+                0x0000000000001020                ___rtld_mutex_lock
+                0x0000000000001028                _dl_random
+                0x0000000000001030                __libc_stack_end
+                0x0000000000001030                __GI___libc_stack_end
+                0x0000000000001038                __GI___libc_enable_secure
+                0x0000000000001038                __libc_enable_secure
+                0x0000000000001050                __pointer_chk_guard_local
+                0x0000000000001058                _dl_skip_args
+                0x0000000000001060                __GI__dl_argv
+                0x0000000000001060                _dl_argv
+                0x0000000000001068                _dl_argc
+                0x0000000000001080                _rtld_global_ro
+                0x0000000000001080                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000      0x430
+ .data.rel.ro.local
+                0x0000000000000000      0x430 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+                0x0000000000000000                _sys_errlist_internal
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x1c8
+ *(.bss)
+ .bss           0x0000000000000000      0x190 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+                0x0000000000000008                _r_debug_extended
+                0x0000000000000008                _r_debug
+                0x00000000000000c8                __nptl_initial_report_events
+                0x00000000000000c8                __GI___nptl_initial_report_events
+                0x0000000000000110                _dl_hwcaps_priorities_length
+                0x0000000000000118                _dl_hwcaps_priorities
+                0x0000000000000188                __curbrk
+ .bss           0x0000000000000190        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000190        0x4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000190                rtld_errno
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000194        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000194        0x4 
+ .bss           0x0000000000000198       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000001b8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000001b8        0x4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x00000000000001b8                __pthread_force_elision
+ .bss           0x00000000000001bc        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x00000000000001bc        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000001bc        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ *fill*         0x00000000000001bc        0x4 
+ .bss           0x00000000000001c0        0x8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000001c0                _environ
+                0x00000000000001c0                __environ
+                0x00000000000001c0                environ
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000001c8        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xf78
+ *(.comment)
+ .comment       0x0000000000000000      0x9a0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .comment       0x00000000000009a0       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x00000000000009cc       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x00000000000009f8       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000a24       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x0000000000000a50       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000a7c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000aa8       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x0000000000000ad4       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x0000000000000b00       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000b2c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000b58       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x0000000000000b84       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000bb0       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x0000000000000bdc       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000c08       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x0000000000000c34       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000c60       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000c8c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000cb8       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000ce4       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000d10       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x0000000000000d3c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000d68       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000d94       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000dc0       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000dec       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000e18       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000e44       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000e70       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000e9c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000ec8       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000ef4       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x0000000000000f20       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x0000000000000f4c       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x14b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0xb10 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000b10       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000b40       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000cb0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000ce0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x0000000000000d10       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000d40       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000000d70       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000000da0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000dd0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000e00       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000e30       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000e60       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000e90       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000ec0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000ef0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000f20       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000f50       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000f80       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000fb0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000fe0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000001010       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001040       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000001070       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x00000000000010a0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x00000000000010d0       0x20 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x00000000000010f0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000001120       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001150       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000001180       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x00000000000011b0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x00000000000011e0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_aranges
+                0x0000000000001210       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000001240       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_aranges
+                0x0000000000001270       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_aranges
+                0x00000000000012a0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_aranges
+                0x00000000000012d0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000001300       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_aranges
+                0x0000000000001330       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_aranges
+                0x0000000000001360       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000001390       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_aranges
+                0x00000000000013c0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_aranges
+                0x00000000000013f0       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001420       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001450       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x0000000000001480       0x30 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xa708c
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x9889e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_info    0x000000000009889e      0x811 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x00000000000990af      0x407 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x00000000000994b6      0x592 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x0000000000099a48      0x504 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x0000000000099f4c      0x616 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x000000000009a562      0x749 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x000000000009acab      0x4de /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x000000000009b189      0xe23 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x000000000009bfac      0xb68 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x000000000009cb14     0x2185 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x000000000009ec99      0x298 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x000000000009ef31      0x2a8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x000000000009f1d9      0x29a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x000000000009f473      0x75c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x000000000009fbcf      0x61a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x00000000000a01e9      0x4ca /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000a06b3      0x493 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000a0b46      0x469 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000a0faf      0x8d6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x00000000000a1885      0x590 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x00000000000a1e15      0x4dc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x00000000000a22f1      0x518 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x00000000000a2809      0x4e0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x00000000000a2ce9      0x3ca /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000a30b3      0x633 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000a36e6       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000a370e       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000a3736      0x966 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x00000000000a409c       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000a40c4      0x4ad /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000a4571       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000a4599       0xb2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000a464b       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000a4673       0x28 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000a469b      0x9a1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x00000000000a503c      0x94c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x00000000000a5988      0x1ec /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000a5b74       0xd7 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_info    0x00000000000a5c4b       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_info    0x00000000000a5c74       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_info    0x00000000000a5c9d       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_info    0x00000000000a5cc6       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_info    0x00000000000a5cef       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_info    0x00000000000a5d18       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_info    0x00000000000a5d41       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_info    0x00000000000a5d6a       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_info    0x00000000000a5d93       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_info    0x00000000000a5dbc       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_info    0x00000000000a5de5       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000a5e0e       0x29 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000a5e37      0x568 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x00000000000a639f      0xced /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_abbrev   0x0000000000000000    0x150c9
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x1171a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000001171a      0x20d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x0000000000011927      0x10d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000011a34      0x20f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x0000000000011c43      0x182 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x0000000000011dc5      0x1e1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x0000000000011fa6      0x1e6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x000000000001218c      0x168 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x00000000000122f4      0x218 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x000000000001250c      0x2df /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x00000000000127eb      0x319 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x0000000000012b04       0xfa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x0000000000012bfe       0xfb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x0000000000012cf9       0xfa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x0000000000012df3      0x1ec /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x0000000000012fdf      0x1cd /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x00000000000131ac      0x15e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000001330a      0x14d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x0000000000013457      0x14a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x00000000000135a1      0x266 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000013807      0x18e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x0000000000013995      0x167 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000013afc      0x172 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x0000000000013c6e      0x165 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000013dd3      0x236 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x0000000000014009      0x1ae /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x00000000000141b7       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x00000000000141cb       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x00000000000141df      0x294 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x0000000000014473       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000014487      0x14c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x00000000000145d3       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x00000000000145e7       0x72 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000014659       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x000000000001466d       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000014681      0x1fc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x000000000001487d      0x1fa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x0000000000014a77      0x15c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x0000000000014bd3       0x9c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_abbrev  0x0000000000014c6f       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_abbrev  0x0000000000014c83       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_abbrev  0x0000000000014c97       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_abbrev  0x0000000000014cab       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_abbrev  0x0000000000014cbf       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_abbrev  0x0000000000014cd3       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_abbrev  0x0000000000014ce7       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_abbrev  0x0000000000014cfb       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_abbrev  0x0000000000014d0f       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_abbrev  0x0000000000014d23       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_abbrev  0x0000000000014d37       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000014d4b       0x14 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000014d5f      0x16c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x0000000000014ecb      0x1fe /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_line     0x0000000000000000    0x21646
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1e1de /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001e1de      0x136 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000001e314       0x71 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000001e385       0xfb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x000000000001e480       0xdd /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000001e55d      0x168 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x000000000001e6c5      0x133 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x000000000001e7f8       0xca /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x000000000001e8c2      0x10c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x000000000001e9ce      0x20f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000001ebdd      0x122 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x000000000001ecff       0x81 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x000000000001ed80       0x9b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x000000000001ee1b       0x81 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x000000000001ee9c       0xec /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x000000000001ef88      0x154 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x000000000001f0dc       0xc0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000001f19c       0xb5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x000000000001f251       0xb3 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x000000000001f304      0x172 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x000000000001f476       0xf1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x000000000001f567       0xc9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x000000000001f630       0xd2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x000000000001f702       0xc9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x000000000001f7cb      0x18e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x000000000001f959       0xe2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000001fa3b       0x51 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000001fa8c       0x51 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x000000000001fadd      0x1d8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x000000000001fcb5       0x51 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000001fd06      0x106 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x000000000001fe0c       0x4f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000001fe5b       0x3f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000001fe9a       0x62 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x000000000001fefc       0x6d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x000000000001ff69       0xe9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x0000000000020052      0x1da /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x000000000002022c       0xae /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x00000000000202da       0x5d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line    0x0000000000020337      0x491 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line    0x00000000000207c8      0x527 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_line    0x0000000000020cef      0x119 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line    0x0000000000020e08       0xc4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line    0x0000000000020ecc      0x14e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line    0x000000000002101a       0xd2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line    0x00000000000210ec       0x98 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line    0x0000000000021184       0x9c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line    0x0000000000021220       0x96 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line    0x00000000000212b6       0x80 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line    0x0000000000021336       0xdc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line    0x0000000000021412       0x91 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line    0x00000000000214a3       0xcf /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x0000000000021572       0xd4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x63c5c
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x58fbe /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_str     0x0000000000058fbe      0x546 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x0000000000059504      0x3eb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x00000000000598ef      0x40d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x0000000000059cfc      0x3d3 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x000000000005a0cf      0x456 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000005a525      0x539 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x000000000005aa5e      0x3b8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x000000000005ae16      0xaa5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x000000000005b8bb      0x6df /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000005bf9a     0x15f1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x000000000005d58b      0x2ba /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x000000000005d845      0x2c2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x000000000005db07      0x2bc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x000000000005ddc3      0x4da /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x000000000005e29d      0x43f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x000000000005e6dc      0x3b5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x000000000005ea91      0x397 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x000000000005ee28      0x3a4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x000000000005f1cc      0x491 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x000000000005f65d      0x436 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x000000000005fa93      0x3d0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x000000000005fe63      0x3f5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x0000000000060258      0x3d2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x000000000006062a      0x2a5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x00000000000608cf      0x3d9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000060ca8       0x93 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x0000000000060d3b       0x93 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x0000000000060dce      0x4d2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x00000000000612a0       0x94 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x0000000000061334      0x395 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x00000000000616c9       0x94 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000006175d      0x1a4 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x0000000000061901       0x8d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x000000000006198e       0x90 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x0000000000061a1e      0x583 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x0000000000061fa1      0x5cd /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x000000000006256e      0x1e9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x0000000000062757      0x194 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_str     0x00000000000628eb       0x8d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_str     0x0000000000062978       0x8d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_str     0x0000000000062a05       0x9a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_str     0x0000000000062a9f       0x9d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_str     0x0000000000062b3c       0x8d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_str     0x0000000000062bc9       0x9a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_str     0x0000000000062c63       0x9b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_str     0x0000000000062cfe       0xa8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_str     0x0000000000062da6       0x8d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_str     0x0000000000062e33       0x8e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_str     0x0000000000062ec1       0xab /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000062f6c       0xaa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000063016      0x445 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x000000000006345b      0x801 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000    0x12bbf
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000     0xde58 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_line_str
+                0x000000000000de58      0x225 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line_str
+                0x000000000000e07d      0x181 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line_str
+                0x000000000000e1fe      0x24a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line_str
+                0x000000000000e448      0x23e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line_str
+                0x000000000000e686      0x244 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line_str
+                0x000000000000e8ca      0x2b5 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line_str
+                0x000000000000eb7f      0x1f9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line_str
+                0x000000000000ed78      0x255 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line_str
+                0x000000000000efcd      0x33e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line_str
+                0x000000000000f30b      0x365 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line_str
+                0x000000000000f670      0x198 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line_str
+                0x000000000000f808      0x1ae /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line_str
+                0x000000000000f9b6      0x19b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line_str
+                0x000000000000fb51      0x1fe /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line_str
+                0x000000000000fd4f      0x1ef /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line_str
+                0x000000000000ff3e      0x1b3 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line_str
+                0x00000000000100f1      0x19e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line_str
+                0x000000000001028f      0x1b6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line_str
+                0x0000000000010445      0x201 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line_str
+                0x0000000000010646      0x1f6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line_str
+                0x000000000001083c      0x1f7 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line_str
+                0x0000000000010a33      0x200 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line_str
+                0x0000000000010c33      0x1fa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line_str
+                0x0000000000010e2d      0x190 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line_str
+                0x0000000000010fbd      0x1e6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line_str
+                0x00000000000111a3       0x9a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line_str
+                0x000000000001123d       0x9a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line_str
+                0x00000000000112d7      0x1c8 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line_str
+                0x000000000001149f       0x9b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line_str
+                0x000000000001153a      0x1a1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line_str
+                0x00000000000116db       0x9b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line_str
+                0x0000000000011776       0xfa /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line_str
+                0x0000000000011870       0x8a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line_str
+                0x00000000000118fa       0x90 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line_str
+                0x000000000001198a      0x23b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line_str
+                0x0000000000011bc5      0x2d1 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line_str
+                0x0000000000011e96      0x146 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line_str
+                0x0000000000011fdc      0x115 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line_str
+                0x00000000000120f1       0x8a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line_str
+                0x000000000001217b       0x8a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_line_str
+                0x0000000000012205       0x97 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line_str
+                0x000000000001229c       0x9d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line_str
+                0x0000000000012339       0x8a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line_str
+                0x00000000000123c3       0x97 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line_str
+                0x000000000001245a       0x9c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line_str
+                0x00000000000124f6       0xa9 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line_str
+                0x000000000001259f       0x8a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line_str
+                0x0000000000012629       0x8c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line_str
+                0x00000000000126b5       0xbc /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line_str
+                0x0000000000012771       0xba /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line_str
+                0x000000000001282b      0x1e2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line_str
+                0x0000000000012a0d      0x1b2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_loclists
+                0x0000000000000000    0x226cf
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000    0x21488 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_loclists
+                0x0000000000021488       0xa2 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loclists
+                0x000000000002152a       0x46 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loclists
+                0x0000000000021570       0x25 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loclists
+                0x0000000000021595       0xb7 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loclists
+                0x000000000002164c       0x55 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loclists
+                0x00000000000216a1       0xeb /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loclists
+                0x000000000002178c      0x16b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loclists
+                0x00000000000218f7      0x110 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loclists
+                0x0000000000021a07       0x3e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loclists
+                0x0000000000021a45       0x45 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loclists
+                0x0000000000021a8a       0x3e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loclists
+                0x0000000000021ac8       0x92 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loclists
+                0x0000000000021b5a       0x85 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loclists
+                0x0000000000021bdf       0x34 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loclists
+                0x0000000000021c13       0x2c /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loclists
+                0x0000000000021c3f       0x24 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loclists
+                0x0000000000021c63      0x248 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loclists
+                0x0000000000021eab       0xdf /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loclists
+                0x0000000000021f8a       0x34 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loclists
+                0x0000000000021fbe       0x52 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loclists
+                0x0000000000022010       0x34 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loclists
+                0x0000000000022044      0x141 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loclists
+                0x0000000000022185      0x109 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loclists
+                0x000000000002228e      0x1a0 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loclists
+                0x000000000002242e       0x58 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loclists
+                0x0000000000022486       0x5f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loclists
+                0x00000000000224e5       0xf6 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loclists
+                0x00000000000225db       0x6a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loclists
+                0x0000000000022645       0x1e /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_loclists
+                0x0000000000022663       0x34 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_loclists
+                0x0000000000022697       0x38 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x3fea
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000     0x3dda /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/dl-allobjs.os
+ .debug_rnglists
+                0x0000000000003dda       0x2a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_rnglists
+                0x0000000000003e04       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_rnglists
+                0x0000000000003e17       0x1a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_rnglists
+                0x0000000000003e31       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_rnglists
+                0x0000000000003e44       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_rnglists
+                0x0000000000003e57       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e6a       0x3a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_rnglists
+                0x0000000000003ea4       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003eb7       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_rnglists
+                0x0000000000003eca       0x1d /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003ee7       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_rnglists
+                0x0000000000003efa       0x17 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_rnglists
+                0x0000000000003f11       0x1a /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_rnglists
+                0x0000000000003f2b       0x2f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_rnglists
+                0x0000000000003f5a       0x2b /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_rnglists
+                0x0000000000003f85       0x3f /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_rnglists
+                0x0000000000003fc4       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_rnglists
+                0x0000000000003fd7       0x13 /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/rtld-libc.a(rtld-errlist.os)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/elf/librtld.os elf64-x86-64)

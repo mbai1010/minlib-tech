@@ -1,0 +1,4 @@
+python3 comp_pair.py 01ssl_new/libssl.so.3 01ssl_new/shrunk_libssl.so.3
+python3 comp_pair.py 02crypto_new/libcrypto.so.3 02crypto_new/shrunk_libcrypto.so.3
+python3 comp_pair.py 02crypt_new/libcrypt.so.2.0.0 02crypt_new/shrunk_libcrypt.so.2.0.0
+python3 comp_pair.py 04musl_libc/libc.so 04musl_libc/shrunk_libc.so

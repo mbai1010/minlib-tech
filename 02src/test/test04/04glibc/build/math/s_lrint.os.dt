@@ -1,0 +1,13 @@
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/math/s_lrint.os: \
+ ../sysdeps/x86_64/fpu/s_lrint.S \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/cet.h
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/cet.h:

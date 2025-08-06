@@ -1,0 +1,11 @@
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/math/w_log2.os: \
+ ../sysdeps/ieee754/dbl-64/w_log2.c \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/gwu-sys-lab/Desktop/01Research/04minlib/minlib-tech/02src/test/test04/04glibc/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
